@@ -1,0 +1,25 @@
+{
+  "name": "parcel-test",
+  "version": "1.0.0",
+  "description": "",
+  "source": "*.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommyneu/UNL-Parcel-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommyneu/UNL-Parcel-Test/issues"
+  },
+  "homepage": "https://github.com/tommyneu/UNL-Parcel-Test#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}
